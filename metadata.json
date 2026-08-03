@@ -1,0 +1,6 @@
+{
+  "name": "AS/400 Terminal App Showcase",
+  "description": "An authentic retro IBM AS/400 terminal landing page showcasing 3 web applications with CRT scanline effects, monospaced typography, and functional command-line navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
